@@ -1,2 +1,3 @@
-# Presentations
-Slides and posters from my presentations at conferences
+# About
+
+This repo contains PDFs of presentation slides and academic posters I've presented at scientific conferences
